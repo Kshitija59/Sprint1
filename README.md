@@ -39,7 +39,7 @@ Good Luck :)
 * Bootstrap
 ## Back-end
 * Django
-* SQLite 3
+* MYsql
 
 # Screenshots of the Project
 <p align="center">
@@ -48,7 +48,6 @@ Good Luck :)
   <img width="660" height="300" src="static/images/c.png">
 </p>
 
-**Copyright (c)** 2019-3019 Md. Omar Faruk
 
 ## Go Through This Site Then You Will Know About This Site Properly.
 =======
