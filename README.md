@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contact World Web application
 *My Contact World Web application is a Django project. Here, in this Web application, you can perform the actions that you usually see in the contact app.*
 
@@ -50,3 +51,6 @@ Good Luck :)
 **Copyright (c)** 2019-3019 Md. Omar Faruk
 
 ## Go Through This Site Then You Will Know About This Site Properly.
+=======
+# Sprint1
+>>>>>>> a6c1776b02ea8ca133a91072d5cf377b4ac506aa
