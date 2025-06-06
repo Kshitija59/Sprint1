@@ -39,7 +39,7 @@ Good Luck :)
 * Bootstrap
 ## Back-end
 * Django
-* MYsql
+* Mysql
 
 # Screenshots of the Project
 <p align="center">
